@@ -1,0 +1,22 @@
+apply plugin: 'java'
+
+
+group 'com.tcs.certificacion.demo'
+version '1.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation('net.serenity-bdd:serenity-core:2.0.82')
+    implementation('net.serenity-bdd:serenity-junit:2.0.82')
+    implementation('net.serenity-bdd:serenity-screenplay:2.0.82')
+    implementation('net.serenity-bdd:serenity-screenplay-webdriver:2.0.82')
+    implementation('org.slf4j:slf4j-simple:1.7.25')
+    implementation('net.serenity-bdd:serenity-cucumber:1.9.45')
+    implementation group: 'io.appium', name: 'java-client', version: '6.1.0'
+    compile group: 'org.jvnet.com4j', name: 'com4j', version: '2.1'
+}
