@@ -1,7 +1,7 @@
-package com.tcs.certificacion.questions;
+package com.sophos.certificacion.questions;
 
-import com.tcs.certificacion.userinterfaces.Cart;
-import com.tcs.certificacion.utils.Constants;
+import com.sophos.certificacion.userinterfaces.Cart;
+import com.sophos.certificacion.utils.Constants;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;

@@ -1,14 +1,11 @@
-package com.tcs.certificacion.tasks;
+package com.sophos.certificacion.tasks;
 
-import com.tcs.certificacion.userinterfaces.LoginSection;
+import com.sophos.certificacion.userinterfaces.LoginSection;
 import net.serenitybdd.core.time.InternalSystemClock;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
-import net.serenitybdd.screenplay.matchers.WebElementStateMatchers;
-import net.serenitybdd.screenplay.questions.WebElementQuestion;
-import net.serenitybdd.screenplay.waits.Wait;
 
 public class Login implements Task {
     @Override

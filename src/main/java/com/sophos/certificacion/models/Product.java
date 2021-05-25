@@ -1,4 +1,4 @@
-package com.tcs.certificacion.models;
+package com.sophos.certificacion.models;
 
 public class Product {
 

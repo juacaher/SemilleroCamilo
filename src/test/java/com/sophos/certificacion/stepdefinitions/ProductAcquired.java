@@ -1,11 +1,11 @@
-package com.tcs.certificacion.stepdefinitions;
+package com.sophos.certificacion.stepdefinitions;
 
-import com.tcs.certificacion.models.Product;
-import com.tcs.certificacion.questions.PaymentCheckout;
-import com.tcs.certificacion.tasks.Login;
-import com.tcs.certificacion.tasks.SelectAddToCart;
-import com.tcs.certificacion.tasks.SelectCart;
-import com.tcs.certificacion.tasks.SelectTablet;
+import com.sophos.certificacion.models.Product;
+import com.sophos.certificacion.questions.PaymentCheckout;
+import com.sophos.certificacion.tasks.Login;
+import com.sophos.certificacion.tasks.SelectAddToCart;
+import com.sophos.certificacion.tasks.SelectCart;
+import com.sophos.certificacion.tasks.SelectTablet;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;

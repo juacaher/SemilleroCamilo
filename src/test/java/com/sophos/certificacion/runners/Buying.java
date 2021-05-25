@@ -1,4 +1,4 @@
-package com.tcs.certificacion.runners;
+package com.sophos.certificacion.runners;
 
 
 import cucumber.api.CucumberOptions;

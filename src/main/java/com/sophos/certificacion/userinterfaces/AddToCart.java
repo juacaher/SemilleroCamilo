@@ -1,4 +1,4 @@
-package com.tcs.certificacion.userinterfaces;
+package com.sophos.certificacion.userinterfaces;
 
 import net.serenitybdd.core.annotations.findby.By;
 import net.serenitybdd.screenplay.targets.Target;

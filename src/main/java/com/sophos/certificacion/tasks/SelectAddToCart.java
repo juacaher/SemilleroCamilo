@@ -1,7 +1,6 @@
-package com.tcs.certificacion.tasks;
+package com.sophos.certificacion.tasks;
 
-import com.tcs.certificacion.userinterfaces.AddToCart;
-import com.tcs.certificacion.userinterfaces.TabletSelection;
+import com.sophos.certificacion.userinterfaces.AddToCart;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
